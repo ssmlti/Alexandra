@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).exe.config
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).exe
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).pdb
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task_2__10_point_.Form1.resources
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task_2__10_point_.Properties.Resources.resources
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.GenerateResource.cache
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).exe
+C:\Users\user\Desktop\2 задача (10 баллов)\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).pdb
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).exe.config
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).exe
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\bin\Debug\Task 2 (10 point).pdb
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csprojAssemblyReference.cache
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task_2__10_point_.Form1.resources
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task_2__10_point_.Properties.Resources.resources
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.GenerateResource.cache
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).csproj.CoreCompileInputs.cache
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).exe
+C:\Users\student1\Desktop\Task 2 (10 point)\Task 2 (10 point)\obj\Debug\Task 2 (10 point).pdb
